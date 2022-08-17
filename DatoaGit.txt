@@ -1,0 +1,4 @@
+Esta es una prueba para Git
+Hola compañeros buen día, bienvenidos al Equipo de trabajo Solutions For Your Needs (SFYN)
+mi usuario en Github es: @JjavierTtorres
+Quiero verificar si puedo compartir este documento en la plataforma
